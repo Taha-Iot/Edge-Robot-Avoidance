@@ -1,7 +1,4 @@
-//Arduino Table edge Avoidance Robot
-//Created By DIY BUILDER
-//Contact me here https://www.instagram.com/diy.builder/
-//You need to include AF Motor.h library before uploading the sketch, otherwise you'll get compilation error message.
+
 
 #include <AFMotor.h>
 
